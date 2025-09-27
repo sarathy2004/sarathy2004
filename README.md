@@ -8,6 +8,6 @@ I can hack NASA... with HTML. (I mostly change their 404 page to say "Welcome, a
 - 👯 Open to collabs that involve snacks and semicolons.
 - ⚡ Fun fact: I break things so I can fix them — emotionally and in code.
 
-> Disclaimer: This is a not  joke. I do  hack anything. Real hackers use keyboards responsibly. 🚫🕵️‍♂️
+> Disclaimer: This is a joke. I do not actually hack anything. Real hackers use keyboards responsibly. 🚫🕵️‍♂️
 
-📫 Reach me by PR.
+📫 Reach me by PR, carrier pigeon, or emoji.

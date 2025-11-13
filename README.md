@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img width="768" height="768" alt="image" src="https://github.com/user-attachments/assets/d31970ce-5c55-4226-8dc8-5b04f6e14cfd" />
+
 
 
 Hey — I'm a *totally-not-suspicious* hacker.  
